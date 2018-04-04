@@ -1,0 +1,14 @@
+WARN  2018-04-04 09:13:08 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+
+(unity-control-center:3166): unity-control-center-WARNING **: Could not load /usr/share/themes/Adwaita/index.theme: No such file or directory
+
+(unity-control-center:3166): Gtk-CRITICAL **: gtk_builder_get_object: assertion 'GTK_IS_BUILDER (builder)' failed
+
+(unity-control-center:3166): Gtk-CRITICAL **: gtk_icon_view_get_selected_items: assertion 'GTK_IS_ICON_VIEW (icon_view)' failed
+
+(unity-control-center:3166): screen-cc-panel-WARNING **: Error getting brightness: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._gsd_5fpower_5fmanager_5ferror.Code0: Screen backlight not available
+WARN  2018-04-04 09:58:16 unity.shell.compiz unityshell.cpp:3241 Animation plugin not found. Can't set minimize speed.
+
+(unity-control-center:4090): screen-cc-panel-WARNING **: Error getting brightness: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._gsd_5fpower_5fmanager_5ferror.Code0: Screen backlight not available
+
+(unity-control-center:4090): screen-cc-panel-WARNING **: Error getting brightness: GDBus.Error:org.gtk.GDBus.UnmappedGError.Quark._gsd_5fpower_5fmanager_5ferror.Code0: Screen backlight not available
