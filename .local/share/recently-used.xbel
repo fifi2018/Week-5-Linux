@@ -66,7 +66,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/adminpg/Pictures/Printing%20even%20or%20odd%20numbers.png" added="2018-04-04T09:36:34Z" modified="2018-04-04T09:54:35Z" visited="2018-04-04T09:36:34Z">
+  <bookmark href="file:///home/adminpg/Pictures/Printing%20even%20or%20odd%20numbers.png" added="2018-04-04T09:36:34Z" modified="2018-04-04T13:08:00Z" visited="2018-04-04T09:36:34Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -75,12 +75,12 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-04T09:36:34Z" count="1"/>
-          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-04-04T09:54:35Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-04-04T13:08:00Z" count="3"/>
         </bookmark:applications>
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/adminpg/Pictures/Addition%20of%202%20inputs.png" added="2018-04-04T09:55:17Z" modified="2018-04-04T09:55:17Z" visited="2018-04-04T09:55:17Z">
+  <bookmark href="file:///home/adminpg/Pictures/Addition%20of%202%20inputs.png" added="2018-04-04T09:55:17Z" modified="2018-04-05T09:08:49Z" visited="2018-04-04T09:55:17Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -89,6 +89,7 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-04T09:55:17Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-04-05T09:08:49Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>
@@ -106,7 +107,7 @@
       </metadata>
     </info>
   </bookmark>
-  <bookmark href="file:///home/adminpg/Pictures/Looping%20to%20user%20input%2810%29.png" added="2018-04-04T10:37:07Z" modified="2018-04-04T10:37:07Z" visited="2018-04-04T10:37:07.172563Z">
+  <bookmark href="file:///home/adminpg/Pictures/Looping%20to%20user%20input%2810%29.png" added="2018-04-04T10:37:07Z" modified="2018-04-04T10:37:07Z" visited="2018-04-04T10:37:07Z">
     <info>
       <metadata owner="http://freedesktop.org">
         <mime:mime-type type="image/png"/>
@@ -115,6 +116,86 @@
         </bookmark:groups>
         <bookmark:applications>
           <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-04T10:37:07Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminpg/Pictures/10%20times%20table%20loops.png" added="2018-04-04T12:21:56Z" modified="2018-04-05T09:08:42Z" visited="2018-04-04T12:21:56Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-04T12:21:56Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-04-05T09:08:42Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminpg/Pictures/Looping%20through%20array%20names.png" added="2018-04-04T12:51:05Z" modified="2018-04-04T12:51:05Z" visited="2018-04-04T12:51:05Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-04T12:51:05Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminpg/Pictures/Buzz%26Fizz.png" added="2018-04-04T16:02:32Z" modified="2018-04-04T16:02:32Z" visited="2018-04-04T16:02:32Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-04T16:02:32Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminpg/Pictures/BuzzFizz.png" added="2018-04-05T08:52:45Z" modified="2018-04-05T08:52:45Z" visited="2018-04-05T08:52:45Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-05T08:52:45Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminpg/Pictures/Adding%20new%20user%20with%20password.png" added="2018-04-05T09:09:53Z" modified="2018-04-05T09:10:08Z" visited="2018-04-05T09:09:53Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-05T09:09:53Z" count="1"/>
+          <bookmark:application name="nautilus" exec="&apos;eog %U&apos;" modified="2018-04-05T09:10:08Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/adminpg/Pictures/Adding%20new%20user%20%26%20password.png" added="2018-04-05T09:10:27Z" modified="2018-04-05T09:10:27Z" visited="2018-04-05T09:10:27.797633Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="image/png"/>
+        <bookmark:groups>
+          <bookmark:group>Graphics</bookmark:group>
+        </bookmark:groups>
+        <bookmark:applications>
+          <bookmark:application name="GNOME Screenshot" exec="&apos;eog %u&apos;" modified="2018-04-05T09:10:27Z" count="1"/>
         </bookmark:applications>
       </metadata>
     </info>

@@ -1,12 +1,14 @@
 logrotate state -- version 2
-"/home/adminpg/.cache/upstart/unity7.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/unity-panel-service.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/upstart-event-bridge.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/indicator-sound.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/gnome-keyring.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/window-stack-bridge.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/dbus.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/ssh-agent.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/gnome-keyring-ssh.log" 2018-4-4-8:44:47
-"/home/adminpg/.cache/upstart/hud.log" 2018-4-4-8:0:0
-"/home/adminpg/.cache/upstart/gpg-agent.log" 2018-4-4-8:44:47
+"/home/adminpg/.cache/upstart/unity7.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/unity-panel-service.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/unity-settings-daemon.log" 2018-4-5-15:0:0
+"/home/adminpg/.cache/upstart/upstart-event-bridge.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/indicator-sound.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/gnome-keyring.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/update-notifier-release.log" 2018-4-5-15:0:0
+"/home/adminpg/.cache/upstart/window-stack-bridge.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/ssh-agent.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/dbus.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/gnome-keyring-ssh.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/hud.log" 2018-4-5-15:30:44
+"/home/adminpg/.cache/upstart/gpg-agent.log" 2018-4-5-15:30:44
